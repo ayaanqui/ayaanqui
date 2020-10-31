@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub!
 
-[![Ayaan's github stats](https://github-readme-stats.vercel.app/api?username=ayaanqui&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayaan's github stats](https://github-readme-stats.vercel.app/api?username=ayaanqui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ayaanqui/ayaanqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
