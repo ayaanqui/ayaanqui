@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub!
+### Hi there 👋 welcome to my GitHub repository!
 
 [![Ayaan's github stats](https://github-readme-stats.vercel.app/api?username=ayaanqui&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
