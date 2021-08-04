@@ -2,6 +2,6 @@
 <p align="center"><br>
   <samp>
     Studying Computer Science at 🏫 <b>University of Illinois at Chicago</b><br>
-    Actively working on <b><a href="https://giftxtrade.com" title="GiftTrade - Online Gift Exchange">giftxtrade.com</a></b><br>
+    Currently working on <b><a href="https://giftxtrade.com" title="GiftTrade - Online Gift Exchange">giftxtrade.com</a></b><br>
   </samp>
 </p>
