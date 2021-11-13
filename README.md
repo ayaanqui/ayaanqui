@@ -1,7 +1,4 @@
 <h3 align="center"><samp>Hi there 👋, welcome to my GitHub!</b></samp></h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayaanqui&show_icons=true&theme=radical" />
-</p>
 <p align="center"><br>
   <samp>
     Studying Computer Science at 🏫 <b>University of Illinois at Chicago</b><br>
